@@ -3,7 +3,7 @@ import RegisterPage from "../components/Auth/RegisterPage";
 
 const forgotpassword = () => {
   return (
-    <Layout pageTitle="Forgot password">
+    <Layout pageTitle="Register">
       <RegisterPage />
     </Layout>
   );
