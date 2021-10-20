@@ -3,7 +3,7 @@ const UrlSwitch = () => {
 
   switch (link) {
     case "server":
-      return "https://gemologyserver.herokuapp.com/";
+      return "https://server-suit-game.herokuapp.com";
     case "local":
       return "http://localhost:8000";
     default:
